@@ -35,15 +35,7 @@
 | `ReaderService.java` | 转发给 Mapper | 照 BookService.java |
 | `ReaderController.java` | 4 个接口，统一 Result | 照 BookController.java |
 
-## 三、接口路径约定（跟 Book 一一对应）
-
-| 功能 | HTTP 方法 | 路径 |
-|---|---|---|
-| 查一个 | GET | `/reader/{id}` |
-| 查所有 | GET | `/readers` |
-| 增 | POST | `/reader` |
-| 改 | PUT | `/reader/{id}` |
-| 删 | DELETE | `/reader/{id}` |
+哈哈哈哈哈哈
 
 ---
 
