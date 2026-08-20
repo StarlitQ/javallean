@@ -35,3 +35,4 @@
 | 2026-08-19 | 04 | 借书/还书（@Transactional 事务 + @Param 多参数 + LocalDate + throw/try-catch） | ✅ 完成 |
 | 2026-08-19 | 04 | 查借阅记录（三表 JOIN + VO 视图对象） | ✅ 完成 |
 | 2026-08-19 | 04 | 分页 + 搜索（LIMIT + @RequestParam + like 模糊查询） | ✅ 完成 |
+| 2026-08-20 | 工具 | Git + GitHub：版本管理 + 代码托管（首次 push 成功） | ✅ 完成 |
